@@ -1,2 +1,2 @@
-sent = input("Please enter a sentence: ")
-print(sent)
+sentence = input("Please enter a sentence: ")
+print(sentence)
